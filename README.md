@@ -16,11 +16,11 @@ I wanted greater contrast and wanted to fine-tune a few of the colors I had pick
 
 ## Screenshots
 
-![Screenshots Thumbnail](https://github.com/eibbors/Bubububububad/raw/master/images/screenshot_bububad.png)
-Bubububububad (the the...)
+![Bubububububad Screenshot](https://raw.github.com/eibbors/Bubububububad/master/images/screen_bububad.png)
+[view](https://raw.github.com/eibbors/Bubububububad/master/images/screen_bububad.png)
 
-![Screenshots Thumbnail](https://github.com/eibbors/Bubububububad/raw/master/images/screenshot_boneyfied.png)
-Bubububububad (the the...)
+![Boneyfied Screenshot](https://raw.github.com/eibbors/Bubububububad/master/images/screen_boneyfied.png)
+[view](https://raw.github.com/eibbors/Bubububububad/master/images/screen_boneyfied.png)
 
 ## Problems?
 
