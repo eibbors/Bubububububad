@@ -1,4 +1,4 @@
-![BonerrificC](https://github.com/eibbors/BonerrificC/raw/master/images/bonerlogo.png)
+Bubububububad / Boneyfied :: ST2 Color Schemes
 
 Updated version of my R rated color scheme for Sublime Text 2. The original theme is included with the PG name `Boneyfied`.
 
