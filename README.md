@@ -14,6 +14,15 @@ The theme's color scheme was mostly inspired by two of my all time favorites, Te
 ~Updated~
 I wanted greater contrast and wanted to fine-tune a few of the colors I had picked at random until I found acceptable. Something about the color scheme makes it really easy for me to read without the eye strain I usually experience when using schemes with higher saturation, brightness, or contrast.
 
+~Updated Again~
+
+~Katzen-Milch~
+A modification of the Bubububububad theme for those who prefer light backgrounds. Colors have been changed a bit, in order to increase the contrast, but are pretty faithful to Bububububad if you're a fan.
+~Bone-a-kite~
+A version of monokai with lots of little modifications made by many people (syntax support additions, mostly) and boneyfied styling courtesy of yours truly. 
+~Resesif-Boned~
+Darker version of a huge inspiration while creating my own themes.
+
 ## Screenshots
 
 ![Bubububububad Screenshot](https://raw.github.com/eibbors/Bubububububad/master/images/screen_bububad.png)
