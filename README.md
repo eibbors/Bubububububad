@@ -25,11 +25,14 @@ Darker version of a huge inspiration while creating my own themes.
 
 ## Screenshots
 
-![Bubububububad Screenshot](https://raw.github.com/eibbors/Bubububububad/master/images/screen_bububad.png)
-[view](https://raw.github.com/eibbors/Bubububububad/master/images/screen_bububad.png)
+![Bubububububad Screenshot](http://eibbors.com/p/boner/screen_bububad.png)
+[view](http://eibbors.com/p/boner/screen_bububad.png)
 
-![Boneyfied Screenshot](https://raw.github.com/eibbors/Bubububububad/master/images/screen_boneyfied.png)
-[view](https://raw.github.com/eibbors/Bubububububad/master/images/screen_boneyfied.png)
+![Boneyfied Screenshot](http://eibbors.com/p/boner/screen_boneyfied.png)
+[view](http://eibbors.com/p/boner/screen_boneyfied.png)
+
+![Katzenmilch Screenshot](http://eibbors.com/p/boner/thumb_katzenmilch.png)
+[view](http://eibbors.com/p/boner/screen_katzenmilch.png)
 
 ## Problems?
 
