@@ -1,4 +1,4 @@
-Bubububububad / Boneyfied :: ST2 Color Schemes
+Bubububububad & Friends ST2 Color Schemes
 
 Updated version of my R rated color scheme for Sublime Text 2. The original theme is included with the PG name `Boneyfied`.
 
@@ -18,21 +18,29 @@ I wanted greater contrast and wanted to fine-tune a few of the colors I had pick
 
 ~Katzen-Milch~
 A modification of the Bubububububad theme for those who prefer light backgrounds. Colors have been changed a bit, in order to increase the contrast, but are pretty faithful to Bububububad if you're a fan.
+
 ~Bone-a-kite~
 A version of monokai with lots of little modifications made by many people (syntax support additions, mostly) and boneyfied styling courtesy of yours truly. 
+
 ~Resesif-Boned~
 Darker version of a huge inspiration while creating my own themes.
 
 ## Screenshots
 
-![Bubububububad Screenshot](http://eibbors.com/p/boner/screen_bububad.png)
-[view](http://eibbors.com/p/boner/screen_bububad.png)
+![Bubububububad Screenshot](http://eibbors.com/p/boner/thumb_bububad.png)
+[View fullsize](http://eibbors.com/p/boner/screen_bububad.png)
 
-![Boneyfied Screenshot](http://eibbors.com/p/boner/screen_boneyfied.png)
-[view](http://eibbors.com/p/boner/screen_boneyfied.png)
+![Boneyfied Screenshot](http://eibbors.com/p/boner/thumb_boneyfied.png)
+[View fullsize](http://eibbors.com/p/boner/screen_boneyfied.png)
 
 ![Katzenmilch Screenshot](http://eibbors.com/p/boner/thumb_katzenmilch.png)
-[view](http://eibbors.com/p/boner/screen_katzenmilch.png)
+[View fullsize](http://eibbors.com/p/boner/screen_katzenmilch.png)
+
+![Bone-a-kite Screenshot](http://eibbors.com/p/boner/thumb_bonekite.png)
+[View fullsize](http://eibbors.com/p/boner/screen_bonekite.png)
+
+![Resesif-Boned Screenshot](http://eibbors.com/p/boner/thumb_resbone.png)
+[View fullsize](http://eibbors.com/p/boner/screen_resbone.png)
 
 ## Problems?
 
